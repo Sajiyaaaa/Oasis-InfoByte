@@ -1,2 +1,2 @@
-# Oasis-InfoByte_DS_task.01
-Data Science Internship
+# Oasis-InfoByte
+This is the internship repository of OASIS INFOBYTE. It contain Tasks provided during data science internship..
